@@ -795,7 +795,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/top-bruno-henrique-e-matheus-06-julho-21-terca-19hrs-1440x800.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -812,7 +812,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/top-diego-e-leonardo-quarta-07-julho-21-1440x800.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
