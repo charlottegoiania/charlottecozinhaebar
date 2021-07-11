@@ -948,7 +948,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/top-final-brasil-vs-argentina-21hrs-10-07-21-1440x800.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -1016,7 +1016,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/top-malue-domingo-11-julho-18hrs-1440x800.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
