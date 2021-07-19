@@ -1855,542 +1855,43 @@ body {
 .cid-sDgSWFgsR6 .mbr-section-subtitle {
   color: #ffffff;
 }
-.cid-sConKg6cTr {
+.cid-sDBAnZUHMW {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #030859;
+  background-color: #52bdf1;
 }
-.cid-sConKg6cTr .container-fluid {
+.cid-sDBAnZUHMW .container-fluid {
   padding: 0 3rem;
 }
-.cid-sConKg6cTr .underline .line {
-  width: 5rem;
-  height: 3px;
-  background: linear-gradient(90deg, #030859, #ff0f1c);
-  display: inline-block;
+.cid-sDBAnZUHMW .mbr-section-title {
+  color: #096693;
+  text-align: right;
 }
-.cid-sConKg6cTr .card {
-  display: flex;
-  position: relative;
-  -webkit-justify-content: center;
-  justify-content: center;
+.cid-sDBAnZUHMW .btn {
+  margin-top: 0;
 }
-.cid-sConKg6cTr .card:hover img {
-  -webkit-transform: scale3d(1.05, 1.05, 1.05);
-  transform: scale3d(1.05, 1.05, 1.05);
-  transition: all .5s;
-}
-.cid-sConKg6cTr .card .card-wrapper {
-  height: 1%;
-}
-.cid-sConKg6cTr .card .card-wrapper .card-img {
-  position: relative;
-  overflow: hidden;
-  margin-bottom: 1rem;
-  border-radius: 10px;
-  z-index: 1;
-}
-.cid-sConKg6cTr .card .card-wrapper .card-img img {
-  transition: all .5s;
-}
-.cid-sConKg6cTr .card .card-wrapper .card-img .img-text {
-  position: absolute;
-  padding: .6rem;
-  top: 0;
-  left: 0;
-  z-index: 1;
-  border-top-left-radius: 10px;
-  border-bottom-right-radius: 10px;
-  background-color: #ff0f1c;
-}
-.cid-sConKg6cTr .card .card-wrapper .card-img .img-text span {
-  display: block;
-}
-.cid-sConKg6cTr .card .card-wrapper .card-img .img-name {
-  position: absolute;
-  padding: .6rem;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-}
-.cid-sConKg6cTr .card .card-wrapper .card-box .mbr-section-btn a {
-  margin-left: 4px;
+.cid-sDBAnZUHMW .media-container-column {
+  padding: 0 2rem;
 }
 @media (max-width: 767px) {
-  .cid-sConKg6cTr .container-fluid {
+  .cid-sDBAnZUHMW .container-fluid {
     padding: 0 1rem;
   }
-}
-.cid-sConKg6cTr .mbr-section-title,
-.cid-sConKg6cTr .underline {
-  color: #ffffff;
-}
-.cid-sConKg6cTr .card-img > .img-name {
-  color: #030859;
-}
-.cid-sConKg6cTr .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-sATMpBBKsx {
-  padding-top: 0px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/bg-dobradinha-chopp-terca-a-quinta-1440x800.jpg");
-}
-.cid-sATMpBBKsx .container-fluid {
-  padding: 0 3rem;
-}
-.cid-sATMpBBKsx .underline .line {
-  width: 5rem;
-  height: 3px;
-  background: linear-gradient(90deg, #030859, #ff0f1c);
-  display: inline-block;
-}
-.cid-sATMpBBKsx .card {
-  display: flex;
-  position: relative;
-  -webkit-justify-content: center;
-  justify-content: center;
-}
-.cid-sATMpBBKsx .card:hover img {
-  -webkit-transform: scale3d(1.05, 1.05, 1.05);
-  transform: scale3d(1.05, 1.05, 1.05);
-  transition: all .5s;
-}
-.cid-sATMpBBKsx .card .card-wrapper {
-  height: 1%;
-}
-.cid-sATMpBBKsx .card .card-wrapper .card-img {
-  position: relative;
-  overflow: hidden;
-  margin-bottom: 1rem;
-  border-radius: 10px;
-  z-index: 1;
-}
-.cid-sATMpBBKsx .card .card-wrapper .card-img img {
-  transition: all .5s;
-}
-.cid-sATMpBBKsx .card .card-wrapper .card-img .img-text {
-  position: absolute;
-  padding: .6rem;
-  top: 0;
-  left: 0;
-  z-index: 1;
-  border-top-left-radius: 10px;
-  border-bottom-right-radius: 10px;
-  background-color: #ff0f1c;
-}
-.cid-sATMpBBKsx .card .card-wrapper .card-img .img-text span {
-  display: block;
-}
-.cid-sATMpBBKsx .card .card-wrapper .card-img .img-name {
-  position: absolute;
-  padding: .6rem;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-}
-.cid-sATMpBBKsx .card .card-wrapper .card-box .mbr-section-btn a {
-  margin-left: 4px;
-}
-@media (max-width: 767px) {
-  .cid-sATMpBBKsx .container-fluid {
-    padding: 0 1rem;
+  .cid-sDBAnZUHMW .btn {
+    margin-top: 0.4rem;
+  }
+  .cid-sDBAnZUHMW .mbr-section-btn {
+    margin: 0;
   }
 }
-.cid-sATMpBBKsx .mbr-section-title,
-.cid-sATMpBBKsx .underline {
+.cid-sDBAnZUHMW .mbr-section-subtitle {
+  text-align: right;
   color: #ffffff;
-}
-.cid-sATMpBBKsx .card-img > .img-name {
-  color: #030859;
-}
-.cid-sATMpBBKsx .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-sBMvgeX6wI {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/bg-charlotte-sol-1440x800.jpg");
-}
-.cid-sBMvgeX6wI .container-fluid {
-  padding: 0 3rem;
-}
-.cid-sBMvgeX6wI .underline .line {
-  width: 5rem;
-  height: 3px;
-  background: linear-gradient(90deg, #030859, #ff0f1c);
-  display: inline-block;
-}
-.cid-sBMvgeX6wI .card {
-  display: flex;
-  position: relative;
-  -webkit-justify-content: center;
-  justify-content: center;
-}
-.cid-sBMvgeX6wI .card:hover img {
-  -webkit-transform: scale3d(1.05, 1.05, 1.05);
-  transform: scale3d(1.05, 1.05, 1.05);
-  transition: all .5s;
-}
-.cid-sBMvgeX6wI .card .card-wrapper {
-  height: 1%;
-}
-.cid-sBMvgeX6wI .card .card-wrapper .card-img {
-  position: relative;
-  overflow: hidden;
-  margin-bottom: 1rem;
-  border-radius: 10px;
-  z-index: 1;
-}
-.cid-sBMvgeX6wI .card .card-wrapper .card-img img {
-  transition: all .5s;
-}
-.cid-sBMvgeX6wI .card .card-wrapper .card-img .img-text {
-  position: absolute;
-  padding: .6rem;
-  top: 0;
-  left: 0;
-  z-index: 1;
-  border-top-left-radius: 10px;
-  border-bottom-right-radius: 10px;
-  background-color: #ff0f1c;
-}
-.cid-sBMvgeX6wI .card .card-wrapper .card-img .img-text span {
-  display: block;
-}
-.cid-sBMvgeX6wI .card .card-wrapper .card-img .img-name {
-  position: absolute;
-  padding: .6rem;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-}
-.cid-sBMvgeX6wI .card .card-wrapper .card-box .mbr-section-btn a {
-  margin-left: 4px;
-}
-@media (max-width: 767px) {
-  .cid-sBMvgeX6wI .container-fluid {
-    padding: 0 1rem;
-  }
-}
-.cid-sBMvgeX6wI .mbr-section-title,
-.cid-sBMvgeX6wI .underline {
-  color: #ffffff;
-}
-.cid-sBMvgeX6wI .card-img > .img-name {
-  color: #030859;
-}
-.cid-sBMvgeX6wI .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-sBMw9Vm4Qk {
-  padding-top: 90px;
-  padding-bottom: 0px;
-  background-color: #030859;
-}
-.cid-sBMw9Vm4Qk .container-fluid {
-  padding: 0 3rem;
-}
-.cid-sBMw9Vm4Qk .underline .line {
-  width: 5rem;
-  height: 3px;
-  background: linear-gradient(90deg, #030859, #ff0f1c);
-  display: inline-block;
-}
-.cid-sBMw9Vm4Qk .card {
-  display: flex;
-  position: relative;
-  -webkit-justify-content: center;
-  justify-content: center;
-}
-.cid-sBMw9Vm4Qk .card:hover img {
-  -webkit-transform: scale3d(1.05, 1.05, 1.05);
-  transform: scale3d(1.05, 1.05, 1.05);
-  transition: all .5s;
-}
-.cid-sBMw9Vm4Qk .card .card-wrapper {
-  height: 1%;
-}
-.cid-sBMw9Vm4Qk .card .card-wrapper .card-img {
-  position: relative;
-  overflow: hidden;
-  margin-bottom: 1rem;
-  border-radius: 10px;
-  z-index: 1;
-}
-.cid-sBMw9Vm4Qk .card .card-wrapper .card-img img {
-  transition: all .5s;
-}
-.cid-sBMw9Vm4Qk .card .card-wrapper .card-img .img-text {
-  position: absolute;
-  padding: .6rem;
-  top: 0;
-  left: 0;
-  z-index: 1;
-  border-top-left-radius: 10px;
-  border-bottom-right-radius: 10px;
-  background-color: #ff0f1c;
-}
-.cid-sBMw9Vm4Qk .card .card-wrapper .card-img .img-text span {
-  display: block;
-}
-.cid-sBMw9Vm4Qk .card .card-wrapper .card-img .img-name {
-  position: absolute;
-  padding: .6rem;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-}
-.cid-sBMw9Vm4Qk .card .card-wrapper .card-box .mbr-section-btn a {
-  margin-left: 4px;
-}
-@media (max-width: 767px) {
-  .cid-sBMw9Vm4Qk .container-fluid {
-    padding: 0 1rem;
-  }
-}
-.cid-sBMw9Vm4Qk .mbr-section-title,
-.cid-sBMw9Vm4Qk .underline {
-  color: #ffffff;
-}
-.cid-sBMw9Vm4Qk .card-img > .img-name {
-  color: #030859;
-}
-.cid-sBMw9Vm4Qk .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-sBMxn86CcT {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/bg-diego-e-leonardo-sabado-10-julho-21-1440x800.jpg");
-}
-.cid-sBMxn86CcT .container-fluid {
-  padding: 0 3rem;
-}
-.cid-sBMxn86CcT .underline .line {
-  width: 5rem;
-  height: 3px;
-  background: linear-gradient(90deg, #030859, #ff0f1c);
-  display: inline-block;
-}
-.cid-sBMxn86CcT .card {
-  display: flex;
-  position: relative;
-  -webkit-justify-content: center;
-  justify-content: center;
-}
-.cid-sBMxn86CcT .card:hover img {
-  -webkit-transform: scale3d(1.05, 1.05, 1.05);
-  transform: scale3d(1.05, 1.05, 1.05);
-  transition: all .5s;
-}
-.cid-sBMxn86CcT .card .card-wrapper {
-  height: 1%;
-}
-.cid-sBMxn86CcT .card .card-wrapper .card-img {
-  position: relative;
-  overflow: hidden;
-  margin-bottom: 1rem;
-  border-radius: 10px;
-  z-index: 1;
-}
-.cid-sBMxn86CcT .card .card-wrapper .card-img img {
-  transition: all .5s;
-}
-.cid-sBMxn86CcT .card .card-wrapper .card-img .img-text {
-  position: absolute;
-  padding: .6rem;
-  top: 0;
-  left: 0;
-  z-index: 1;
-  border-top-left-radius: 10px;
-  border-bottom-right-radius: 10px;
-  background-color: #ff0f1c;
-}
-.cid-sBMxn86CcT .card .card-wrapper .card-img .img-text span {
-  display: block;
-}
-.cid-sBMxn86CcT .card .card-wrapper .card-img .img-name {
-  position: absolute;
-  padding: .6rem;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-}
-.cid-sBMxn86CcT .card .card-wrapper .card-box .mbr-section-btn a {
-  margin-left: 4px;
-}
-@media (max-width: 767px) {
-  .cid-sBMxn86CcT .container-fluid {
-    padding: 0 1rem;
-  }
-}
-.cid-sBMxn86CcT .mbr-section-title,
-.cid-sBMxn86CcT .underline {
-  color: #ffffff;
-}
-.cid-sBMxn86CcT .card-img > .img-name {
-  color: #030859;
-}
-.cid-sBMxn86CcT .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-sDxdXYh3ZR {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/bg-sol-1440x800.jpg");
-}
-.cid-sDxdXYh3ZR .container-fluid {
-  padding: 0 3rem;
-}
-.cid-sDxdXYh3ZR .underline .line {
-  width: 5rem;
-  height: 3px;
-  background: linear-gradient(90deg, #030859, #ff0f1c);
-  display: inline-block;
-}
-.cid-sDxdXYh3ZR .card {
-  display: flex;
-  position: relative;
-  -webkit-justify-content: center;
-  justify-content: center;
-}
-.cid-sDxdXYh3ZR .card:hover img {
-  -webkit-transform: scale3d(1.05, 1.05, 1.05);
-  transform: scale3d(1.05, 1.05, 1.05);
-  transition: all .5s;
-}
-.cid-sDxdXYh3ZR .card .card-wrapper {
-  height: 1%;
-}
-.cid-sDxdXYh3ZR .card .card-wrapper .card-img {
-  position: relative;
-  overflow: hidden;
-  margin-bottom: 1rem;
-  border-radius: 10px;
-  z-index: 1;
-}
-.cid-sDxdXYh3ZR .card .card-wrapper .card-img img {
-  transition: all .5s;
-}
-.cid-sDxdXYh3ZR .card .card-wrapper .card-img .img-text {
-  position: absolute;
-  padding: .6rem;
-  top: 0;
-  left: 0;
-  z-index: 1;
-  border-top-left-radius: 10px;
-  border-bottom-right-radius: 10px;
-  background-color: #ff0f1c;
-}
-.cid-sDxdXYh3ZR .card .card-wrapper .card-img .img-text span {
-  display: block;
-}
-.cid-sDxdXYh3ZR .card .card-wrapper .card-img .img-name {
-  position: absolute;
-  padding: .6rem;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-}
-.cid-sDxdXYh3ZR .card .card-wrapper .card-box .mbr-section-btn a {
-  margin-left: 4px;
-}
-@media (max-width: 767px) {
-  .cid-sDxdXYh3ZR .container-fluid {
-    padding: 0 1rem;
-  }
-}
-.cid-sDxdXYh3ZR .mbr-section-title,
-.cid-sDxdXYh3ZR .underline {
-  color: #ffffff;
-}
-.cid-sDxdXYh3ZR .card-img > .img-name {
-  color: #030859;
-}
-.cid-sDxdXYh3ZR .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-su2yuMEhRD {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/wheatfield-sunset-cp-2000x1330.jpg");
-}
-.cid-su2yuMEhRD .container-fluid {
-  padding: 0 3rem;
-}
-.cid-su2yuMEhRD .underline .line {
-  width: 5rem;
-  height: 3px;
-  background: linear-gradient(90deg, #030859, #ff0f1c);
-  display: inline-block;
-}
-.cid-su2yuMEhRD .card {
-  display: flex;
-  position: relative;
-  -webkit-justify-content: center;
-  justify-content: center;
-}
-.cid-su2yuMEhRD .card:hover img {
-  -webkit-transform: scale3d(1.05, 1.05, 1.05);
-  transform: scale3d(1.05, 1.05, 1.05);
-  transition: all .5s;
-}
-.cid-su2yuMEhRD .card .card-wrapper {
-  height: 1%;
-}
-.cid-su2yuMEhRD .card .card-wrapper .card-img {
-  position: relative;
-  overflow: hidden;
-  margin-bottom: 1rem;
-  border-radius: 10px;
-  z-index: 1;
-}
-.cid-su2yuMEhRD .card .card-wrapper .card-img img {
-  transition: all .5s;
-}
-.cid-su2yuMEhRD .card .card-wrapper .card-img .img-text {
-  position: absolute;
-  padding: .6rem;
-  top: 0;
-  left: 0;
-  z-index: 1;
-  border-top-left-radius: 10px;
-  border-bottom-right-radius: 10px;
-  background-color: #ff0f1c;
-}
-.cid-su2yuMEhRD .card .card-wrapper .card-img .img-text span {
-  display: block;
-}
-.cid-su2yuMEhRD .card .card-wrapper .card-img .img-name {
-  position: absolute;
-  padding: .6rem;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-}
-.cid-su2yuMEhRD .card .card-wrapper .card-box .mbr-section-btn a {
-  margin-left: 4px;
-}
-@media (max-width: 767px) {
-  .cid-su2yuMEhRD .container-fluid {
-    padding: 0 1rem;
-  }
-}
-.cid-su2yuMEhRD .mbr-section-title,
-.cid-su2yuMEhRD .underline {
-  color: #ffffff;
-}
-.cid-su2yuMEhRD .card-img > .img-name {
-  color: #030859;
-}
-.cid-su2yuMEhRD .mbr-section-subtitle {
-  color: #ff0f1c;
 }
 .cid-sa2PHfJIlP {
   padding-top: 90px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/bg-sunset2-1440x800.jpg");
+  background-image: url("../../../assets/images/bg-sol-1440x800.jpg");
 }
 .cid-sa2PHfJIlP .container-fluid {
   padding: 0 3rem;
@@ -2461,7 +1962,7 @@ body {
   color: #030859;
 }
 .cid-sa2PHfJIlP .mbr-section-subtitle {
-  color: #ff0f1c;
+  color: #ffffff;
 }
 .cid-stVdp2jBaR {
   padding-top: 30px;
@@ -2537,7 +2038,7 @@ body {
   color: #030859;
 }
 .cid-stVdp2jBaR .mbr-section-subtitle {
-  color: #ff0f1c;
+  color: #ffffff;
 }
 .cid-s60IeCigv6 {
   padding-top: 0px;
