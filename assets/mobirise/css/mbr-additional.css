@@ -1779,6 +1779,111 @@ body {
   padding-bottom: 45px;
   background-color: #030859;
 }
+.cid-sFSr9IQ5NK {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #030859;
+}
+.cid-sFSr9IQ5NK .container-fluid {
+  padding: 0 3rem;
+}
+.cid-sFSr9IQ5NK .underline .line {
+  width: 5rem;
+  height: 3px;
+  background: linear-gradient(90deg, #030859, #ff0f1c);
+  display: inline-block;
+}
+.cid-sFSr9IQ5NK .card {
+  display: flex;
+  position: relative;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-sFSr9IQ5NK .card:hover img {
+  -webkit-transform: scale3d(1.05, 1.05, 1.05);
+  transform: scale3d(1.05, 1.05, 1.05);
+  transition: all .5s;
+}
+.cid-sFSr9IQ5NK .card .card-wrapper {
+  height: 1%;
+}
+.cid-sFSr9IQ5NK .card .card-wrapper .card-img {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  z-index: 1;
+}
+.cid-sFSr9IQ5NK .card .card-wrapper .card-img img {
+  transition: all .5s;
+}
+.cid-sFSr9IQ5NK .card .card-wrapper .card-img .img-text {
+  position: absolute;
+  padding: .6rem;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color: #ff0f1c;
+}
+.cid-sFSr9IQ5NK .card .card-wrapper .card-img .img-text span {
+  display: block;
+}
+.cid-sFSr9IQ5NK .card .card-wrapper .card-img .img-name {
+  position: absolute;
+  padding: .6rem;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+}
+.cid-sFSr9IQ5NK .card .card-wrapper .card-box .mbr-section-btn a {
+  margin-left: 4px;
+}
+@media (max-width: 767px) {
+  .cid-sFSr9IQ5NK .container-fluid {
+    padding: 0 1rem;
+  }
+}
+.cid-sFSr9IQ5NK .mbr-section-title,
+.cid-sFSr9IQ5NK .underline {
+  color: #ffffff;
+}
+.cid-sFSr9IQ5NK .card-img > .img-name {
+  color: #030859;
+}
+.cid-sFSr9IQ5NK .mbr-section-subtitle {
+  color: #ffffff;
+}
+#custom-html-6j {
+  /* Type valid CSS here */
+}
+#custom-html-6j div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-6j p {
+  font-size: 60px;
+  color: #777;
+}
+#custom-html-6k {
+  /* Type valid CSS here */
+}
+#custom-html-6k div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-6k p {
+  font-size: 60px;
+  color: #777;
+}
+.cid-sFStEy8yRi {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #030859;
+}
 .cid-sDJSauMmJu {
   padding-top: 90px;
   padding-bottom: 90px;
