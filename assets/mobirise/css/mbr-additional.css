@@ -1779,38 +1779,66 @@ body {
   padding-bottom: 45px;
   background-color: #030859;
 }
-.cid-sHAdcHPED8 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #52bdf1;
+.cid-sL5mxywsh1 {
+  background-image: url("../../../assets/images/top-sex-15-out-racyne-e-rafael-19hrs-1920x1066.jpg");
 }
-.cid-sHAdcHPED8 .container-fluid {
-  padding: 0 3rem;
+.cid-sL5mxywsh1 .mbr-section-title,
+.cid-sL5mxywsh1 .mbr-section-subtitle {
+  color: #000000;
 }
-.cid-sHAdcHPED8 .mbr-section-title {
-  color: #096693;
-  text-align: right;
+.cid-sL5mxywsh1 .mbr-section-text {
+  color: #232323;
 }
-.cid-sHAdcHPED8 .btn {
-  margin-top: 0;
+.cid-sL5mxywsh1 .mbr-text,
+.cid-sL5mxywsh1 .typed-text,
+.cid-sL5mxywsh1 .mbr-section-text {
+  letter-spacing: 0.03rem;
 }
-.cid-sHAdcHPED8 .media-container-column {
-  padding: 0 2rem;
+.cid-sL5mxywsh1 .btn {
+  margin-left: 4px !important;
 }
-@media (max-width: 767px) {
-  .cid-sHAdcHPED8 .container-fluid {
-    padding: 0 1rem;
+.cid-sL5mxywsh1 .animated-element {
+  color: #fe525b;
+}
+.cid-sL5mxywsh1 .typed-cursor {
+  opacity: 1;
+  -webkit-animation: blink 0.7s infinite;
+  -moz-animation: blink 0.7s infinite;
+  animation: blink 0.7s infinite;
+  color: #fe525b;
+}
+@keyframes blink {
+  0% {
+    opacity: 1;
   }
-  .cid-sHAdcHPED8 .btn {
-    margin-top: 0.4rem;
+  50% {
+    opacity: 0;
   }
-  .cid-sHAdcHPED8 .mbr-section-btn {
-    margin: 0;
+  100% {
+    opacity: 1;
   }
 }
-.cid-sHAdcHPED8 .mbr-section-subtitle {
-  text-align: right;
-  color: #ffffff;
+@-webkit-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-moz-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 .cid-sDJSauMmJu {
   padding-top: 90px;
