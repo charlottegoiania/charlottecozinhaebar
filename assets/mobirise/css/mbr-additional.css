@@ -1780,7 +1780,7 @@ body {
   background-color: #030859;
 }
 .cid-sL5mxywsh1 {
-  background-image: url("../../../assets/images/top-sex-15-out-racyne-e-rafael-19hrs-1920x1066.jpg");
+  background-image: url("../../../assets/images/02-top-sex-15-out-racyne-e-rafael-19hrs-1920x1066.jpg");
 }
 .cid-sL5mxywsh1 .mbr-section-title,
 .cid-sL5mxywsh1 .mbr-section-subtitle {
@@ -1914,6 +1914,82 @@ body {
   color: #030859;
 }
 .cid-sDJSauMmJu .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-sLbXGaeWxu {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/bg-terca-rafa-e-santiago-03-08-21-as19hrs-1440x800.jpg");
+}
+.cid-sLbXGaeWxu .container-fluid {
+  padding: 0 3rem;
+}
+.cid-sLbXGaeWxu .underline .line {
+  width: 5rem;
+  height: 3px;
+  background: linear-gradient(90deg, #030859, #ff0f1c);
+  display: inline-block;
+}
+.cid-sLbXGaeWxu .card {
+  display: flex;
+  position: relative;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-sLbXGaeWxu .card:hover img {
+  -webkit-transform: scale3d(1.05, 1.05, 1.05);
+  transform: scale3d(1.05, 1.05, 1.05);
+  transition: all .5s;
+}
+.cid-sLbXGaeWxu .card .card-wrapper {
+  height: 1%;
+}
+.cid-sLbXGaeWxu .card .card-wrapper .card-img {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  z-index: 1;
+}
+.cid-sLbXGaeWxu .card .card-wrapper .card-img img {
+  transition: all .5s;
+}
+.cid-sLbXGaeWxu .card .card-wrapper .card-img .img-text {
+  position: absolute;
+  padding: .6rem;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color: #ff0f1c;
+}
+.cid-sLbXGaeWxu .card .card-wrapper .card-img .img-text span {
+  display: block;
+}
+.cid-sLbXGaeWxu .card .card-wrapper .card-img .img-name {
+  position: absolute;
+  padding: .6rem;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+}
+.cid-sLbXGaeWxu .card .card-wrapper .card-box .mbr-section-btn a {
+  margin-left: 4px;
+}
+@media (max-width: 767px) {
+  .cid-sLbXGaeWxu .container-fluid {
+    padding: 0 1rem;
+  }
+}
+.cid-sLbXGaeWxu .mbr-section-title,
+.cid-sLbXGaeWxu .underline {
+  color: #ffffff;
+}
+.cid-sLbXGaeWxu .card-img > .img-name {
+  color: #030859;
+}
+.cid-sLbXGaeWxu .mbr-section-subtitle {
   color: #ffffff;
 }
 .cid-sE13cr1Z1b {
