@@ -1779,156 +1779,37 @@ body {
   padding-bottom: 45px;
   background-color: #030859;
 }
-.cid-sLxJhAmBIs {
+.cid-sLxMXuPUZ6 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/bg-11-out-marcelo-martins-e-pedro-ivo-e-rafael-19hrs-1920x1066.jpg");
+  background-color: #52bdf1;
 }
-.cid-sLxJhAmBIs .container-fluid {
+.cid-sLxMXuPUZ6 .container-fluid {
   padding: 0 3rem;
 }
-.cid-sLxJhAmBIs .underline .line {
-  width: 5rem;
-  height: 3px;
-  background: linear-gradient(90deg, #030859, #ff0f1c);
-  display: inline-block;
+.cid-sLxMXuPUZ6 .mbr-section-title {
+  color: #096693;
+  text-align: right;
 }
-.cid-sLxJhAmBIs .card {
-  display: flex;
-  position: relative;
-  -webkit-justify-content: center;
-  justify-content: center;
+.cid-sLxMXuPUZ6 .btn {
+  margin-top: 0;
 }
-.cid-sLxJhAmBIs .card:hover img {
-  -webkit-transform: scale3d(1.05, 1.05, 1.05);
-  transform: scale3d(1.05, 1.05, 1.05);
-  transition: all .5s;
-}
-.cid-sLxJhAmBIs .card .card-wrapper {
-  height: 1%;
-}
-.cid-sLxJhAmBIs .card .card-wrapper .card-img {
-  position: relative;
-  overflow: hidden;
-  margin-bottom: 1rem;
-  border-radius: 10px;
-  z-index: 1;
-}
-.cid-sLxJhAmBIs .card .card-wrapper .card-img img {
-  transition: all .5s;
-}
-.cid-sLxJhAmBIs .card .card-wrapper .card-img .img-text {
-  position: absolute;
-  padding: .6rem;
-  top: 0;
-  left: 0;
-  z-index: 1;
-  border-top-left-radius: 10px;
-  border-bottom-right-radius: 10px;
-  background-color: #ff0f1c;
-}
-.cid-sLxJhAmBIs .card .card-wrapper .card-img .img-text span {
-  display: block;
-}
-.cid-sLxJhAmBIs .card .card-wrapper .card-img .img-name {
-  position: absolute;
-  padding: .6rem;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-}
-.cid-sLxJhAmBIs .card .card-wrapper .card-box .mbr-section-btn a {
-  margin-left: 4px;
+.cid-sLxMXuPUZ6 .media-container-column {
+  padding: 0 2rem;
 }
 @media (max-width: 767px) {
-  .cid-sLxJhAmBIs .container-fluid {
+  .cid-sLxMXuPUZ6 .container-fluid {
     padding: 0 1rem;
   }
-}
-.cid-sLxJhAmBIs .mbr-section-title,
-.cid-sLxJhAmBIs .underline {
-  color: #ffffff;
-}
-.cid-sLxJhAmBIs .card-img > .img-name {
-  color: #030859;
-}
-.cid-sLxJhAmBIs .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-sLxJkEnHOA {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/bg-sex-15-out-racyne-e-rafael-19hrs-1920x1066.jpg");
-}
-.cid-sLxJkEnHOA .container-fluid {
-  padding: 0 3rem;
-}
-.cid-sLxJkEnHOA .underline .line {
-  width: 5rem;
-  height: 3px;
-  background: linear-gradient(90deg, #030859, #ff0f1c);
-  display: inline-block;
-}
-.cid-sLxJkEnHOA .card {
-  display: flex;
-  position: relative;
-  -webkit-justify-content: center;
-  justify-content: center;
-}
-.cid-sLxJkEnHOA .card:hover img {
-  -webkit-transform: scale3d(1.05, 1.05, 1.05);
-  transform: scale3d(1.05, 1.05, 1.05);
-  transition: all .5s;
-}
-.cid-sLxJkEnHOA .card .card-wrapper {
-  height: 1%;
-}
-.cid-sLxJkEnHOA .card .card-wrapper .card-img {
-  position: relative;
-  overflow: hidden;
-  margin-bottom: 1rem;
-  border-radius: 10px;
-  z-index: 1;
-}
-.cid-sLxJkEnHOA .card .card-wrapper .card-img img {
-  transition: all .5s;
-}
-.cid-sLxJkEnHOA .card .card-wrapper .card-img .img-text {
-  position: absolute;
-  padding: .6rem;
-  top: 0;
-  left: 0;
-  z-index: 1;
-  border-top-left-radius: 10px;
-  border-bottom-right-radius: 10px;
-  background-color: #ff0f1c;
-}
-.cid-sLxJkEnHOA .card .card-wrapper .card-img .img-text span {
-  display: block;
-}
-.cid-sLxJkEnHOA .card .card-wrapper .card-img .img-name {
-  position: absolute;
-  padding: .6rem;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-}
-.cid-sLxJkEnHOA .card .card-wrapper .card-box .mbr-section-btn a {
-  margin-left: 4px;
-}
-@media (max-width: 767px) {
-  .cid-sLxJkEnHOA .container-fluid {
-    padding: 0 1rem;
+  .cid-sLxMXuPUZ6 .btn {
+    margin-top: 0.4rem;
+  }
+  .cid-sLxMXuPUZ6 .mbr-section-btn {
+    margin: 0;
   }
 }
-.cid-sLxJkEnHOA .mbr-section-title,
-.cid-sLxJkEnHOA .underline {
-  color: #ffffff;
-}
-.cid-sLxJkEnHOA .card-img > .img-name {
-  color: #030859;
-}
-.cid-sLxJkEnHOA .mbr-section-subtitle {
+.cid-sLxMXuPUZ6 .mbr-section-subtitle {
+  text-align: right;
   color: #ffffff;
 }
 .cid-sDJSauMmJu {
@@ -2007,37 +1888,80 @@ body {
 .cid-sDJSauMmJu .mbr-section-subtitle {
   color: #ffffff;
 }
-.cid-sLxMXuPUZ6 {
+.cid-sMcsqxbFGO {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #52bdf1;
+  background-color: #030859;
 }
-.cid-sLxMXuPUZ6 .container-fluid {
+.cid-sMcsqxbFGO .container-fluid {
   padding: 0 3rem;
 }
-.cid-sLxMXuPUZ6 .mbr-section-title {
-  color: #096693;
-  text-align: right;
+.cid-sMcsqxbFGO .underline .line {
+  width: 5rem;
+  height: 3px;
+  background: linear-gradient(90deg, #030859, #ff0f1c);
+  display: inline-block;
 }
-.cid-sLxMXuPUZ6 .btn {
-  margin-top: 0;
+.cid-sMcsqxbFGO .card {
+  display: flex;
+  position: relative;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
-.cid-sLxMXuPUZ6 .media-container-column {
-  padding: 0 2rem;
+.cid-sMcsqxbFGO .card:hover img {
+  -webkit-transform: scale3d(1.05, 1.05, 1.05);
+  transform: scale3d(1.05, 1.05, 1.05);
+  transition: all .5s;
+}
+.cid-sMcsqxbFGO .card .card-wrapper {
+  height: 1%;
+}
+.cid-sMcsqxbFGO .card .card-wrapper .card-img {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  z-index: 1;
+}
+.cid-sMcsqxbFGO .card .card-wrapper .card-img img {
+  transition: all .5s;
+}
+.cid-sMcsqxbFGO .card .card-wrapper .card-img .img-text {
+  position: absolute;
+  padding: .6rem;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color: #ff0f1c;
+}
+.cid-sMcsqxbFGO .card .card-wrapper .card-img .img-text span {
+  display: block;
+}
+.cid-sMcsqxbFGO .card .card-wrapper .card-img .img-name {
+  position: absolute;
+  padding: .6rem;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+}
+.cid-sMcsqxbFGO .card .card-wrapper .card-box .mbr-section-btn a {
+  margin-left: 4px;
 }
 @media (max-width: 767px) {
-  .cid-sLxMXuPUZ6 .container-fluid {
+  .cid-sMcsqxbFGO .container-fluid {
     padding: 0 1rem;
   }
-  .cid-sLxMXuPUZ6 .btn {
-    margin-top: 0.4rem;
-  }
-  .cid-sLxMXuPUZ6 .mbr-section-btn {
-    margin: 0;
-  }
 }
-.cid-sLxMXuPUZ6 .mbr-section-subtitle {
-  text-align: right;
+.cid-sMcsqxbFGO .mbr-section-title,
+.cid-sMcsqxbFGO .underline {
+  color: #ffffff;
+}
+.cid-sMcsqxbFGO .card-img > .img-name {
+  color: #030859;
+}
+.cid-sMcsqxbFGO .mbr-section-subtitle {
   color: #ffffff;
 }
 .cid-sE13cr1Z1b {
